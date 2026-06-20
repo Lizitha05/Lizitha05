@@ -34,9 +34,11 @@
 
 ## statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizitha05&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizitha05&layout=compact&theme=radical)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Lizitha05&show_icons=true&theme=dark) 
+![stats](https://github-readme-stats.vercel.app/api?username=Lizitha05&show_icons=true&theme=radical) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=condLizitha05rcoders&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://komarev.com/ghpvc/?username=Lizitha05&style=flat-square&color=blue" alt=""/>
 <!--
